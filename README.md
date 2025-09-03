@@ -32,7 +32,7 @@ It showcases my ability to build a functional and responsive landing page from s
 ---
 
 ## 🌍 Live Demo
-🔗 [View Project on GitHub Pages](https://hossam-hamad-web.github.io/landing-page/)  
+🔗 [View Project on GitHub Pages](https://hossam-hamad-web.github.io/Landing-Page/)  
 
 ---
 
